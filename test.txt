@@ -1,3 +1,4 @@
 this is test file
 second test
+Test for rebase
 Modified
